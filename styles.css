@@ -1,0 +1,28 @@
+h1 {
+  color: Blue;
+  font-family: helvetica;
+  background-color: pink;
+  border:5px solid red;
+  padding:50px;
+}
+
+p {
+  color:pink;
+  background-color: #0096FF;
+}
+
+h3 {
+  color:orange;
+  background-color: white;
+}
+
+body {
+  background-color: #FFFBC8;
+}
+
+img {
+  border:5px solid fuchsia;
+  width: 25%;
+  height:25%;
+  margin-left: 100px;
+}
